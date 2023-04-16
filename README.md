@@ -18,6 +18,7 @@ Berikut adalah beberapa fitur yang mungkin dibutuhkan dalam program Kasir Mandir
 
 
 Adapun ketentuan diskonnya adalah :
+
 a. Total belanja > Rp. 200.000 : diskon 5%
 b. Total belanja > Rp. 300.000 : diskon 6%
 c. Total belanja > Rp. 500.000 : diskon 7%
