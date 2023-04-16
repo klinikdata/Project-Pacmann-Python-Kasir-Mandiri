@@ -1,13 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 from modul import Transaction
-
-
-# In[2]:
 
 
 def menu(opt):
@@ -172,12 +163,7 @@ def menu(opt):
         menu(opt)
 
 
-# In[3]:
-
 
 trans = Transaction()
-
-
-# In[ ]:
 
 menu(trans)
