@@ -25,7 +25,7 @@ c. Total belanja > Rp. 500.000 : diskon 7%
 
 ## Flowchart
 Berikut adalah beberapa fitur yang mungkin dibutuhkan dalam program kasir self-service menggunakan Python :
-![image]()
+![image](https://github.com/klinikdata/Project-Pacmann-Python-Kasir-Mandiri/blob/main/images/Flowchart.png)
 
 ## Penjelasan dari Function
 Proyek ini terdiri dari 2 file yaitu main.py dan modul.py yang masing-masing memiliki kegunaan.
@@ -62,57 +62,58 @@ Customer ingin menambahkan dua item/barang baru menggunakan method add_item(). I
 •	Nama Item: Pasta Gigi, Qty: 3, Harga: 15000
 
 Expected Output :
-![image]()
+![image](https://github.com/klinikdata/Project-Pacmann-Python-Kasir-Mandiri/blob/main/images/Test%201.%20Menambahkan%20Item.png)
 
 Test 2:
 Customer menggunakan method delete_item() untuk menghapus item. Item yang ingin dihapuskan adalah Pasta Gigi
 Expected Output :
-![image]()
+![image](https://github.com/klinikdata/Project-Pacmann-Python-Kasir-Mandiri/blob/main/images/Test%202.%20Menghapus%20Item.png)
 
 Test 3:
 Menghapus semua data transaksi dengan method reset_transaction().
 Expected Output :
-![image]()
+![image](https://github.com/klinikdata/Project-Pacmann-Python-Kasir-Mandiri/blob/main/images/Test%203.%20%20Menghapus%20Semua%20Data%20Trx.png)
 
 
 Test 4:
 Mengubah nama produk dengan method update_item_name().
 Expected Output :
-![image]()
+![image](https://github.com/klinikdata/Project-Pacmann-Python-Kasir-Mandiri/blob/main/images/Test%204.%20%20Mengubah%20Nama%20Produk.png)
 
 
 Test 5:
 Mengubah kuantitas produk dengan method update_item_qty().
 Expected Output :
-![image]()
+![image](https://github.com/klinikdata/Project-Pacmann-Python-Kasir-Mandiri/blob/main/images/Test%205.%20%20Mengubah%20Jumlah%20Produk.png)
 
 
 Test 6:
 Mengubah harga produk dengan method update_item_price().
 
 Expected Output :
-![image]()
+![image](https://github.com/klinikdata/Project-Pacmann-Python-Kasir-Mandiri/blob/main/images/Test%206.%20%20Mengubah%20Harga%20Produk.png)
 
 
 Test 7:
 Memeriksa data order dengan method check_order().
 
 Expected Output :
-![image]()
+![image](https://github.com/klinikdata/Project-Pacmann-Python-Kasir-Mandiri/blob/main/images/Test%207.%20%20Memeriksa%20Pesanan%20Kembali.png)
 
 
 Test 8:
 Menampilkan total belanja dengan method total_price()
 
 Expected Output :
-![image]()
+![image](https://github.com/klinikdata/Project-Pacmann-Python-Kasir-Mandiri/blob/main/images/Test%208.%20%20Menghasilkan%20Total%20Harga.png)
 
+![image](https://github.com/klinikdata/Project-Pacmann-Python-Kasir-Mandiri/blob/main/images/Test%208.%20%20Menghasilkan%20Total%20Harga%20Setelah%20Diskon.png)
 
 Test 9:
 Keluar dari aplikasi Kasir Mandiri
 
 Expected Output :
-![image]()
+![image](https://github.com/klinikdata/Project-Pacmann-Python-Kasir-Mandiri/blob/main/images/Test%209.%20Keluar%20dari%20Aplikasi%20Kasir%20Mandiri.png)
 
 ## Kesimpulan
 Sistem kasir self-service atau Kasir Mandiri pada supermarket telah memberikan kemudahan bagi pelanggan dalam melakukan transaksi secara mandiri. Namun, sistem ini perlu ditingkatkan performanya dan diperbaiki tampilannya agar lebih menarik dan mudah digunakan. Dengan demikian, supermarket dapat terus memberikan pelayanan yang baik bagi pelanggan dan memperkuat posisinya sebagai tempat belanja yang dapat diandalkan.
